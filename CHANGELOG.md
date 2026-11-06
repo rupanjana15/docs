@@ -47,6 +47,7 @@ and this project adheres to
 - 🔒️(backend) never lower an existing role when accepting a request
 - 🐛(backend) delete the access requests a role given another way covers
 - 🗃️(backend) delete the stored access requests a role already covers
+- 🐛(frontend) show an error when approving an access request fails
 
 ### Removed
 
