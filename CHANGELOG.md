@@ -30,6 +30,7 @@ and this project adheres to
 - 🔒️(yhub) build the production image on a distroless base image
 - 👷(ci) scan images with trivy only on release/ branches or the trivy label
 - 💄(frontend) redesign 500 error standalone page #2801
+- 📦️(docker) keep the yarn cache out of the node images
 
 ### Fixed
 
